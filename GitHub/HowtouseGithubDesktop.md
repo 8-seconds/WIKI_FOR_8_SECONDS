@@ -2,13 +2,13 @@
 
 깃허브 초보자를 위한 깃허브 데스크톱 사용법입니다 :) 사실 깃을 사용한 지 얼마 안되었을 때는 커맨드 창에 직접 명령어를 쓰면서 깃을 익히는 게 좋지만, `GUI` 툴 중 하나인 깃허브 데스크톱을 쓰는게 솔직히... 편하니까요..:smiley:
 
-
+<br>
 
 ### 1. 깃허브 데스크톱 설치하기 :green_apple:
 
 > https://desktop.github.com
 
-
+<br>
 
 ### 2. 깃허브 데스크톱과 깃허브 계정 연동하기 :apple:
 
@@ -16,7 +16,7 @@
 
 **File :arrow_forward: Options :arrow_forward: Accounts :arrow_forward: Sign in :arrow_forward: 깃허브 계정으로 로그인하면 끝**
 
-
+<br>
 
 ### 3. 저장소(Repository) 불러오기 :orange:
 
@@ -32,7 +32,7 @@
 
   ![img_clone_repository_2](/Image/img_clone_repository_2.png)
 
-
+<br>
 
 ### 4. Commit하는 방법 :lemon:
 
@@ -40,13 +40,15 @@ git에서는 Local Repository(현재 자신의 데스크톱 레포지토리)에 
 
 ![img_commit_way](/Image/img_commit_way.png)
 
-
+<br>
 
 :bulb: 깃허브 데스크톱에서는 위 사진과 같이 Repository에서 추가, 수정, 삭제 등의 작업이 이루어진 파일들이 왼쪽에 보이게 됩니다. 위 사진에서 왼쪽 하단을 보시면 **Summary (required)**라고 적힌 입력창이 보이실 텐데요, 여기가 바로 **Commit 메시지**를 적는 칸입니다! 로컬의 작업물을 GitHub 사이트의 Repository에 올리기 위해서는 Commit 메시지를 작성하는 게 필수이므로, 모두 적절한 Commit 메시지를 남겨주시기 바랍니다 :)
 
-**:heavy_check_mark: 여기서 참고하면 좋은 자료 : Git Commit Message Convention**
+<br>
 
+**:heavy_check_mark: 여기서 참고하면 좋은 자료 : [Git Commit Message Convention](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/blob/main/GitHub/CommitMessageConvention.md)**
 
+<br>
 
 ### 5. Push하는 방법 :grapes:
 
@@ -54,7 +56,7 @@ git에서는 Local Repository(현재 자신의 데스크톱 레포지토리)에 
 
 ![img_push_way](/Image/img_push_way.png)
 
-
+<br>
 
 ### 6. Pull 하는 방법 :avocado:
 
