@@ -6,7 +6,7 @@
 
 ### 1. Class file
 
-- 클래스 파일 이름은 **UpperCamelCase(aka 파스칼 케이스(PascalCase))**로 작성하한다.
+- 클래스 파일 이름은 **[UpperCamelCase(aka 파스칼 케이스(PascalCase))](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/blob/main/Android/tip/AndroidNamingConvention.md)** 로 작성하한다.
 
   **ex) SignInActivity, SiginInFragment, ImageUploaderService, ChangePasswordDialog**
 
@@ -14,7 +14,7 @@
 
 ### 2. Resources file
 
-- 리소스 파일 이름은 **snake_case**로 작성한다.
+- 리소스 파일 이름은 [**snake_case**](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/blob/main/Android/tip/AndroidNamingConvention.md)로 작성한다.
 
   **ex) image_logo.png, ic_back.xml, menu_main.xml**
 
@@ -30,7 +30,7 @@
 
 ### 4. Method
 
-- 메소드 이름은 **lowerCamelCase**로 작성한다.
+- 메소드 이름은 [**lowerCamelCase**](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/blob/main/Android/tip/AndroidNamingConvention.md)로 작성한다.
 
 - "동사"로 시작하는 "동사구" 형태를 사용하되, 동사 원형만을 사용한다.
 
@@ -79,7 +79,7 @@
 
 ### 3. 스네이크 케이스(snake_case)
 
-- 각 단어의 사이를 **언더바 _**로 구분해주는 표기법이다.
+- 각 단어의 사이를 **언더바 _** 로 구분해주는 표기법이다.
 
 <br>
 
