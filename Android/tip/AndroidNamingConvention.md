@@ -69,7 +69,7 @@
 
 <br>
 
-### 2. lowerCamelCase(PascalCase)
+### 2. lowerCamelCase
 
 - 단봉낙타 표기법이라고도 한다.
 - 보통 카멜 케이스라고 하면 lower 카멜 케이스를 의미한다.
